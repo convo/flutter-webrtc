@@ -1,6 +1,10 @@
 
 # Changelog
 
+[1.4.1+convo.1] -2026-11-26
+
+* [Android] Dispose video renderers on engine detach (backport upstream #2192)
+
 [1.4.1] -2026-03-24
 
 * [Dart] fixed scalabilityMode (#2022).
